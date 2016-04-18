@@ -10,7 +10,7 @@ This isn’t an exhaustive list of things that you can’t do. Rather, take it i
 
 This code of conduct applies to the [IT Think Tank Slack](http://slack.itthinktank.io) channel as well as [IT Think Tank Facebook group](https://www.facebook.com/groups/TheITThinkTank/).
 
-If you believe someone is violating the code of conduct, we ask that you report it by contacting any of the [commuionity leaders](https://github.com/ITThinkTank/blob/master/CodeOfConduct/Admins.md). via a private slack or fb message. Also feel free to message [IT Think Tank Facebook page](https://www.facebook.com/messages/956558507765222) directly.
+If you believe someone is violating the code of conduct, we ask that you report it by contacting any of the [community leaders](https://github.com/ITThinkTank/CodeOfConduct/blob/master/Admins.md). via a private slack or fb message. Also feel free to message [IT Think Tank Facebook page](https://www.facebook.com/messages/956558507765222) directly.
 
 * **Be friendly and patient.** As the IT Think Tank community is comprised of professionals from various backgrounds and skill levels, it is important to be friendly to newcomers and patient with those that seek help in the IT Think Tank commuionity.
 * **Be welcoming.** We strive to be a community that welcomes and supports people of all backgrounds and identities. This includes, but is not limited to members of any race, ethnicity, culture, national origin, colour, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.
